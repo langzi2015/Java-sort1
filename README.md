@@ -1,2 +1,2 @@
 # Java-sort1
-直接插入排序java实现
+直接选择排序java实现
