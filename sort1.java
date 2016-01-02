@@ -1,4 +1,3 @@
-//÷±Ω”—°‘Ò≈≈–Ú
 import java.util.Arrays;
 
 public class sort1 {
